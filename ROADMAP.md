@@ -1,6 +1,6 @@
 # Roadmap
 
-- [x] Putting stuff on screen using `OP_RETURN`
+- [ ] Putting stuff on screen using `OP_RETURN`
     - Opcodes and Chunks, and rawdogs
     - The bare minimums
     - incl. disassembly
